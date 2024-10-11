@@ -163,6 +163,7 @@ header nav ul li a {
     padding: 10px;
 }
 
+<<<<<<< HEAD
 .grid-galeria{
     width: 100%;
     margin-top: 5%;
@@ -204,6 +205,11 @@ header nav ul li a {
     padding: 2px;
 }
 
+=======
+
+
+
+>>>>>>> bootstrap
 .fixed {
     position: fixed;
     bottom: 80px;
@@ -213,6 +219,7 @@ header nav ul li a {
 .fixed a img {
     width: 80px;
 }
+
 
 
 /*!---FOOTER---*/
